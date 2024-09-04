@@ -1,0 +1,4 @@
+SysAdmin*1357*100*admin
+User1*1234*100.00*user
+User2*2222*100,000.00*user
+User3*3333*298,800.00*user
